@@ -25,6 +25,7 @@ local.properties
 # Keystore files
 *.jks
 *.keystore
+src/main/resources/apikey.properties
 
 # Version control
 vcs.xml
